@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import {auth} from "../../public/firebase";
-
+//fireBase
 const routes = [
   {
     path: '/',
